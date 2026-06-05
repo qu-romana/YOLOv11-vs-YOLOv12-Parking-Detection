@@ -35,7 +35,7 @@
 
 ---
 
-## Overview
+## Overview:
 
 This project implements and rigorously compares **YOLOv11** and **YOLOv12** for parking lot occupancy detection, classifying each parking space as either **space-empty** (green) or **space-occupied** (red).
 
