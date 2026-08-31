@@ -45,7 +45,7 @@ The goal goes beyond simply training two models - this study evaluates them acro
 
 ---
 
-## Key Results
+## Key Results:
 
 ### Overall mAP Comparison
 
