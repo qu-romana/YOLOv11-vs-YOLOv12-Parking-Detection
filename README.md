@@ -72,7 +72,7 @@ The goal goes beyond simply training two models - this study evaluates them acro
 
 ## Dataset
 
-### PKLot Dataset
+### PKLot Dataset:
 
 The [PKLot dataset](https://www.kaggle.com/datasets/ammarnassanalhajali/pklot-dataset) is a large-scale parking lot benchmark captured from CCTV cameras at multiple locations under varying weather and lighting conditions. Each image is annotated with bounding boxes for every individual parking space, labeled as either empty or occupied.
 
